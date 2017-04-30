@@ -1,3 +1,4 @@
 name: Information, Entropy and the Universe
 markdown: kramdown
 theme: jekyll-theme-minimal
+permalink: /blog/:year/:month/:day/:title
