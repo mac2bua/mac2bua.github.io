@@ -56,8 +56,8 @@ Componente | Descripción | Precio ARS | Precio USD
 Procesador | Intel Pentium g4560 (3.9Ghz, 2 cores, 4 threads) | 1135 | 70
 Placa de video | Zotac GTX 1070 Mini 8GB | 7490 | 457
 Memoria | Crucial 2x8GB Ballistix Sport LT (DDR4 2400Mhz) | 2396 | 147
-Motherboard | Gigabyte GA-b250M-DS3H | 1277 | 78
-Disco | Sandisk SSD Plus 120GB | 1544 | 95
-Fuente | EVGA 500W 80+ | 1070 | 66
-Gabinete | Corsair Carbide 100R | 1295 | 79
+Motherboard | Gigabyte GA-b250M-DS3H Mini-ATX | 1544 | 95
+Disco | Sandisk SSD Plus 120GB | 1277 | 78
+Fuente | EVGA 500W 80+ | 1295 | 79
+Gabinete | Corsair Carbide 100R | 1070 | 66
 **Total** |  | **16207** | **992**
